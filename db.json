@@ -8,5 +8,50 @@
             "id": "2",
             "descricao" : "SAPATO"
         }
+    ],
+    "produtos": [
+        {
+            "nome": "nome do produto",
+            "desconto": "20%",
+            "imageUrl": "https://gigaatacado.vteximg.com.br/arquivos/ids/172780-1000-1000/1_9999_68-copiar.jpg?v=636471340024270000",
+            "descricao": "descrição do produt"
+        },
+        {
+            "nome": "nome do produto",
+            "desconto": "20%",
+            "imageUrl": "https://images-americanas.b2w.io/produtos/01/00/item/132444/0/132444092P1.png",
+            "descricao": "descrição do produt"
+        },
+        {
+            "nome": "nome do produto",
+            "desconto": "20%",
+            "imageUrl": "https://images-americanas.b2w.io/produtos/01/00/item/127005/9/127005968P1.jpg",
+            "descricao": "descrição do produt"
+        },
+        {
+            "nome": "nome do produto",
+            "desconto": "20%",
+            "imageUrl": "https://gigaatacado.vteximg.com.br/arquivos/ids/172780-1000-1000/1_9999_68-copiar.jpg?v=636471340024270000",
+            "descricao": "descrição do produt"
+        },
+        {
+            "nome": "nome do produto",
+            "desconto": "20%",
+            "imageUrl": "https://images-americanas.b2w.io/produtos/01/00/item/127005/9/127005968P1.jpg",
+            "descricao": "descrição do produt"
+        },
+        {
+            "nome": "nome do produto",
+            "desconto": "20%",
+            "imageUrl": "https://images-americanas.b2w.io/produtos/01/00/item/132444/0/132444092P1.png",
+            "descricao": "descrição do produt"
+        },
+        {
+            "nome": "nome do produto",
+            "desconto": "20%",
+            "imageUrl": "https://gigaatacado.vteximg.com.br/arquivos/ids/172780-1000-1000/1_9999_68-copiar.jpg?v=636471340024270000",
+            "descricao": "descrição do produt"
+        }
     ]
+    
 }
