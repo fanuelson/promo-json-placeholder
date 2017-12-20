@@ -1,0 +1,12 @@
+{
+    "categorias": [
+        {
+            "id": "1",
+            "descricao" : "ROUPA"
+        },
+        {
+            "id": "2",
+            "descricao" : "SAPATO"
+        }
+    ]
+}
